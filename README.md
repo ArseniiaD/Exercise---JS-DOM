@@ -2,10 +2,6 @@
 ### BeCode 2022/2023
 ### JS-DOM practise
 1. Introduction [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/1.Introduction/index.html)
-   - The document title is displayed in the console;
-   - The document is title is changed to "Modifying the DOM";
-   - The background color changes every time when the page is reloaded;
-   - All children elements of the <body> are displayed in console;
 2. DOM Selectors [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/2.Selectors/index2.html)
 3. Creating Nodes [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/3.Creating/index3.html)
 4. Navigating the DOM [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/4.Navigate/index4.html)
