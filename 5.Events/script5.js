@@ -69,8 +69,8 @@ for (let actionSquare of actionSquares) {
   const mainDiv = document.querySelector(".displayedsquare-wrapper");
   const eraseSquares = (e) => {
   if (e.code == "KeyS") {
-  while(mainDiv.firstChild) {
-    mainDiv.removeChild(mainDiv.firstChild);
+    while(mainDiv.firstChild) {
+      mainDiv.removeChild(mainDiv.firstChild);
   }
   }
   }
