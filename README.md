@@ -7,3 +7,4 @@
 4. Navigating the DOM [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/4.Navigate/index4.html)
 5. Events [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/5.Events/index5.html)
 6. Forms [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/6.Forms/index6.html)
+7. DOM-drill [Web Page](http://htmlpreview.github.io/?https://github.com/ArseniiaD/Exercise---JS-DOM/blob/main/7.DOM-drill/index7.html)
