@@ -54,7 +54,7 @@ const randomClone = (e) => {
   for(i=0; i < childrenLi1.length; i++) {
      let index = Math.floor(Math.random() * childrenLi1.length);
      ul.appendChild(childrenLi1[index]);
-    }
+      }
    for (let element of children) {
       if (element.textContent === "Fast and Furious") {
            ul.prepend(element);
@@ -70,10 +70,12 @@ const randomClone = (e) => {
 }
 
 body.addEventListener('keyup', randomClone);
+//onkeyup
 
 // Create a new <div> before the list, using createElement and insertBefore
 let newDiv = document.createElement("div");
 let parent = ul.parentNode;
+//parent.appendChild(newDiv);
 parent.insertBefore(newDiv, ul);
 
 // Using createElement, create a <select> tag into the previously created <div>, with two <option>s in it: "important franchises" and "normal franchises"
@@ -104,4 +106,4 @@ const display = () => {
     }
   }
 select.addEventListener("change", display);
-
+// const node = document.querySelectorAll('li')[0]
